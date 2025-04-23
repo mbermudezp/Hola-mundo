@@ -1,2 +1,2 @@
 # Hola-mundo
-Este repositorio es para practicar el flujo de GitHub
+Hola mi nombre es manuel esta es mi primera clase de github ddd
